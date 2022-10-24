@@ -1,0 +1,4 @@
+Nama : Muzhaffar Dzikrum Mubarak
+Umur : 25 tahun
+Stack : Frontend
+Bahasa Pemrograman : ReactJS
